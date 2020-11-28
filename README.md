@@ -1,12 +1,16 @@
 # gnome-shell-extension-tilingnome
 
-Tiling window manager
+Tiling window manager, forked from [rliang/gnome-shell-extension-tilingnome.](https://github.com/rliang/gnome-shell-extension-tilingnome)
 
 ## Features
 
 * Horizontal, vertical, spiral layouts
 * Gaps
 * (Experimental) Multi-monitor
+
+## Features added by this fork
+
+* works on Gnome-shell > 3.38 only!
 
 ## Installation
 
